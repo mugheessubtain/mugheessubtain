@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mughees Subtain</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-<p align="center">
+<p align="left">
 Hello, fellow coders and tech enthusiasts!I'm a dedicated front-end developer with a strong foundation in HTML, CSS, and JavaScript.Currently diving into React.js, I'm on a journey to become a full-stack MERN developer. My goal is to master both front-end and back-end technologies to build seamless and robust web applications.Here on my GitHub, you'll find a treasure trove of my coding adventures and projects that reflect my unending passion for creating innovative solutions. 
   
 Within this GitHub realm, you'll discover a diverse array of projects, code snippets, and experiments spanning various domains. From web applications harnessing the latest technologies to a wide range of software development projects, my GitHub is a testament to my unwavering commitment to the world of software development.
