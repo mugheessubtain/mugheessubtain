@@ -1,6 +1,4 @@
-<div>
-<img alt="Coding" width="100%" src="images/final.png"/>
-</div>
+
 
 <h1 align="center">Hi 👋, I'm Mughees Subtain</h1>
 <h3 align="center">A passionate Software Engineer</h3>
