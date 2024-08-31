@@ -1,5 +1,5 @@
 <div>
-<img alt="Coding" width="100%" height="300px" src="images/bc.jfif"/>
+<img alt="Coding" width="100%" src="images/final.png"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Mughees Subtain</h1>
