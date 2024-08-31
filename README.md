@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://ideogram.ai/assets/progressive-image/balanced/response/NcjQJabPTbGbhOWtUg3yWA"/>
+<img align="right" alt="Coding" width="400" src="images/bc.jfif"/>
 <h1 align="center">Hi 👋, I'm Mughees Subtain</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 <p align="left">
